@@ -1,0 +1,9 @@
+{
+    "header": "Create New Customer",
+    "success": "Successfully Created Customer!",
+    "message": "Customer was successfully created.",
+    "footer": "",
+    "submitting": "Submitting...",
+    "submit_failure": "Submission failed"
+
+}

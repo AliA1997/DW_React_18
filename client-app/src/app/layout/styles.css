@@ -1,0 +1,192 @@
+body {
+  margin: 0;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif !important;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #212529;
+  text-align: left;
+  background-color: #fff;
+}
+
+.ui.inverted.top.fixed.menu {
+  background-color: rgb(52, 58, 64) !important;
+}
+
+.react-calendar {
+  width: 100%;
+  border: none;
+  box-shadow: 0 1px 2px 0 rgba(34, 36, 38, 0.15);
+}
+
+.react-datepicker-wrapper {
+  width: 100% !important;
+}
+
+.modal-text-color {
+  color: rgb(52, 58, 64);
+}
+
+.modal-button-color {
+  background-color: rgb(0, 123, 255) !important;
+  color: #fff;
+}
+
+.navbar-background-color {
+  background-color: rgb(52, 58, 64) !important;
+}
+
+.navbar-color {
+  color: rgba(255, 255, 255, 0.5) !important;
+}
+
+.form-background-color {
+  background-color: rgb(248, 249, 250) !important;
+}
+
+.fill-height {
+  height: 100%;
+}
+
+.pageheader {
+  color: rgb(33, 37, 41) !important;
+  font-size: 56px !important;
+  font-weight: 300 !important;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif !important;
+}
+
+.page-width {
+  width: 1000px;
+}
+
+/*home page styles*/
+
+.masthead {
+  display: flex;
+  align-items: center;
+  background-color: rgb(52, 58, 64);
+  height: 100vh;
+}
+
+.masthead .ui.menu .ui.button,
+.ui.menu a.ui.inverted.button {
+  margin-left: 0.5em;
+}
+
+.masthead h1.ui.header {
+  font-size: 4em;
+  font-weight: normal;
+}
+
+.masthead h2 {
+  font-size: 1.7em;
+  font-weight: normal;
+}
+
+.full-width {
+  width: 100% !important;
+}
+
+.floated-left {
+  float: left;
+}
+
+.footer-link {
+  color:rgb(248, 249, 250) !important;
+}
+
+.right-footer-column {
+  text-align: right;
+}
+
+.left-footer-column {
+  text-align: left;
+}
+
+.card-header {
+  padding: 0.75rem 1.25rem;
+  margin-bottom: 0;
+  color: rgb(73, 80, 87);
+  background-color: rgba(0, 0, 0, 0.03);
+  border-bottom-width: 1px;
+  border-bottom-color: rgba(0, 0, 0, 0.125);
+  font-size: 16px;
+  font-weight: 400;
+}
+
+.card-span-right {
+  flex: 1;
+  float: right;
+  white-space: nowrap;
+}
+.card-text {
+  font-size: 16px;
+  display: list-item;
+  color: rgb(73, 80, 87);
+  font-weight: 400;
+  line-height: 24px;
+  list-style-type: disc;
+  overflow-wrap: break-word;
+}
+.drop-down {
+  width: 300px !important;
+}
+
+.half-drop-down {
+  width: 100px !important;
+}
+/*end home page styles*/
+.ui.table tr td {
+  border-top: 0px !important;
+}
+
+.myLabel {
+  color: rgba(0, 0, 0, 0.87);
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 14px !important;
+  font-style: normal;
+  font-weight: 400 !important;
+  height: 17px;
+  line-height: 17px;
+  text-align: left;
+  text-indent: 0px;
+}
+
+.lineHeight{
+  line-height: 21px !important;
+}
+
+.line-bottom {
+  position: relative;
+  bottom:0;
+}
+
+.footer {
+  background-color: rgb(52, 58, 64) !important;
+  position: fixed !important;
+  bottom: 0;
+  width: 100vw;
+}
+
+.react-datepicker-wrapper {
+  padding-bottom: 5em;
+}
+
+.ui.segment {
+  border-radius: 0;
+}
+
+.margin-top-2 {
+  margin-top: 5rem !important;
+}
+
+.customer-card {
+  margin-left: auto !important;
+  margin-right: auto !important;
+  width: 95% !important;
+}
+
+.scrollable-container {
+  max-height: 50rem;
+  overflow-y: auto !important;
+}

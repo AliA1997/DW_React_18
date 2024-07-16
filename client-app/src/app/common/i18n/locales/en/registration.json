@@ -1,0 +1,20 @@
+{
+    "header": "Create using your internal account",
+    "free_trial": "",
+    "success": "Successfully registered!",
+    "message": "Please check your email (including junk email) for the verification email",
+    "registration.login":"Return to login!",
+
+    "email": {
+        "fail": "Didn't receive the email?  Click the below button to resend",
+        "verification": "Email verification",
+        "verified": "Email has been verified - you can now login",
+        "resend": "Resend email",
+        "resent": "Verification email resent - please check your email"
+    },
+
+    "footer": "",
+    "verifying": "Verifying...",
+    "verify_failure": "Verification failed.  You can try resending the verify link to your email"
+
+}

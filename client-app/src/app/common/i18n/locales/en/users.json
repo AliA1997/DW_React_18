@@ -1,0 +1,47 @@
+{
+    "login": {
+        "facebook": "Login with Facebook",
+        "learn_more": "Learn more about application",
+        "application_online": "Application",
+        "forgot_password": "Forgot Your Password?"
+    },
+
+    "password": {
+        "forgot_label": "Forgot Password",
+        "forgot_message": "Please provide your account email to reset your password",
+        "forgot_button": "Request password reset",
+        "current": "Current Password:",
+        "new": "New Password:",
+        "confirm": "Confirm Password:",
+        "update": "Update Password",
+        "change": "Change Password",
+        "change_message": "Please fill out the following form to update your password:",
+        "update_successful": "Password updated successfully"
+    },
+
+    "admin": {
+        "title": "Admin Page",
+        "add_new": "+ Add New User",
+        "edit": "Edit",
+        "delete": "Delete",
+        "user_name": "Username",
+        "email": "Email",
+        "roles": "Roles",
+        "phone_number": "Phone Number"
+    },
+
+    "details": {
+        "title": "User Details",
+        "save": "Save",
+        "delete": "Delete",
+        "user_name": "Username",
+        "email": "Email",
+        "roles": "Roles",
+        "first_name": "First Name",
+        "last_name": "Last Name",
+        "submit": "Submit",
+        "phone_number": "Phone Number",
+        "password": "Password"
+    }
+
+}

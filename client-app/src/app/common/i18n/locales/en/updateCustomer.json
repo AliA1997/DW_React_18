@@ -1,0 +1,9 @@
+{
+    "header": "Update Customer",
+    "success": "Successfully Updated Customer!",
+    "message": "Customer was successfully updated.",
+    "footer": "",
+    "updating": "Updating...",
+    "update_failure": "Update failed"
+
+}

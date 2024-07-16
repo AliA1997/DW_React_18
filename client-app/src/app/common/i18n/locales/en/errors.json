@@ -1,0 +1,48 @@
+{
+    "not_found": "Oops - we've looked everywhere and could not find this.",
+    "server": "Server Error",
+    "stack_trace": "Stack trace",
+
+    "expired_session": "Session expired - please login again",
+    "invalid_login": "Invalid username or password",
+    "invalid_email": "Please provide your email address...",
+    "email_taken": "Email has been used please try forgot password.",
+    "username_taken": "Username has been taken. Please select another username.",
+    "invalid_ClientId": "Invalid Client.",
+    "registration_error": "Registration Error.",
+
+    "registration":{
+        "invalid_PhoneNumber": "Phonenumber must be (ddd) ddd-dddd",
+        "invalid_LastName": "Last name must be only letters or ,.\\'",
+        "invalid_FirstName": "First name must be only letters or ,.\\'",
+        "invalid_UserName": "Username must be 8 characters and only have alphanumeric characters",
+        "invalid_Password": "Passwords\nmust start with letters, must contain lower case letter, must contain upper case letter and a special character !@#$%",
+        "invalid_Email":"Invalid email.",
+        "required_Email": "Email is required.",
+        "required_Roles": "Role is required.",
+        "required_UserName": "Username is required.",
+        "required_FirstName": "First name is required.",
+        "required_LastName": "Last name is required.",
+        "required_PhoneNumber": "Phone number is required \".",
+        "required_Password": "Password is required.",
+        "required_PasswordMatch" : "Both password need to be the same"
+    },
+    
+    "create_customer":{
+        "invalid_PhoneNumber": "Phonenumber must be (ddd) ddd-dddd",
+        "invalid_LastName": "Last name must be only letters or ,.\\'",
+        "invalid_FirstName": "First name must be only letters or ,.\\'",
+        "invalid_Email":"Invalid email.",
+        "required_Email": "Email is required.",
+        "required_FirstName": "First name is required.",
+        "required_LastName": "Last name is required.",
+        "required_PhoneNumber": "Phone number is required \"."
+    },
+    
+    "update_Customer":{
+        "invalid_PhoneNumber": "Phonenumber must be (ddd) ddd-dddd",
+        "invalid_LastName": "Last name must be only letters or ,.\\'",
+        "invalid_FirstName": "First name must be only letters or ,.\\'",
+        "invalid_Email":"Invalid email."
+    }
+}

@@ -1,0 +1,10 @@
+{
+
+    "add": {
+        "label": "Add Photo",
+        "step1": "Step 1 - Add Photo",
+        "step2": "Step 2 - Resize image",
+        "step3": "Step 3 - Preview & Upload"
+    },
+    "dropzone": "Drop image here"
+}

@@ -1,0 +1,23 @@
+{
+
+    "profile": {
+        "edit": "Edit Profile",
+        "update": "Update Profile",
+        "loading": "Loading profile..."
+    },
+    "name": {
+        "first": "First Name",
+        "last": "Last Name",
+        "company": "Company Name",
+        "title": "Title"
+    },
+    "address": {
+        "line1": "Address",
+        "line2": "Address (Line2)",
+        "city": "City",
+        "state": "State",
+        "country": "Country",
+        "postalcode": "Zip / Postal Code"
+    }
+
+}
